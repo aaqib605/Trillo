@@ -499,10 +499,7 @@ body {
   text-align: center; }
   @media only screen and (max-width: 56.25em) {
     .cta {
-      padding: 2rem 0; } }
-  @media only screen and (max-width: 32.8125em) {
-    .cta {
-      padding: 1.5rem 0; } }
+      padding: 3rem 0; } }
   .cta__book-now {
     font-size: 2rem;
     font-weight: 300;
